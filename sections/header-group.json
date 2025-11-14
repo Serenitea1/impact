@@ -20,10 +20,26 @@
             "text": "Livraison offerte",
             "url": ""
           }
+        },
+        "message_j4p6Fj": {
+          "type": "message",
+          "settings": {
+            "text": "Qualité premium",
+            "url": ""
+          }
+        },
+        "message_twy7AY": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_j4p6Fj",
+        "message_twy7AY"
       ],
       "settings": {
         "enable_sticky": false,
@@ -40,16 +56,16 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/IMG_8935.jpg",
+        "logo_max_width": 100,
+        "logo_mobile_max_width": 95,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
-        "menu_open_trigger": "click",
-        "opening_from": "bottom",
+        "menu_open_trigger": "hover",
+        "opening_from": "left",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
@@ -57,8 +73,9 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
-        "background_opacity": 100,
+        "transparent_logo": "shopify://shop_images/IMG_8935.jpg",
+        "reduce_padding": true,
+        "background_opacity": 0,
         "background_blur_radius": 0
       }
     }
