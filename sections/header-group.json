@@ -27,19 +27,11 @@
             "text": "Qualité premium",
             "url": ""
           }
-        },
-        "message_twy7AY": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
-        "message_j4p6Fj",
-        "message_twy7AY"
+        "message_j4p6Fj"
       ],
       "settings": {
         "enable_sticky": true,
