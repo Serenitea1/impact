@@ -31,7 +31,7 @@
         "message_4mUFeh": {
           "type": "message",
           "settings": {
-            "text": "Black Friday Sale",
+            "text": "Black Friday Sale %",
             "url": ""
           }
         }
@@ -42,7 +42,7 @@
         "message_4mUFeh"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-base",
