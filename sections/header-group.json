@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison offerte",
+            "text": "Livraison offerte + free gift",
             "url": ""
           }
         },
@@ -27,11 +27,19 @@
             "text": "Qualité premium",
             "url": ""
           }
+        },
+        "message_4mUFeh": {
+          "type": "message",
+          "settings": {
+            "text": "Black Friday Sale",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_j4p6Fj"
+        "message_j4p6Fj",
+        "message_4mUFeh"
       ],
       "settings": {
         "enable_sticky": true,
@@ -40,7 +48,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#22a708",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
