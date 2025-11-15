@@ -338,24 +338,24 @@
         "tab_6PQTht": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristiques",
+            "content": "<h3></h3><p>🫖 <strong>Infusion intelligente</strong> – Sépare automatiquement le thé de l’eau pour une infusion parfaite à chaque fois.</p><p>🔥 <strong>Garde la chaleur plus longtemps</strong> – Le verre borosilicate retient la température sans altérer le goût.</p><p>💧 <strong>Facile à nettoyer</strong> – Infuseur amovible et matériaux anti-traces pour un entretien rapide.</p><p>🌿 <strong>Matériaux durables et sûrs</strong> – Sans BPA, résiste à la chaleur et aux chocs thermiques.</p><p>💎 <strong>Design élégant et minimaliste</strong> – Transparente, moderne, avec finitions naturelles.</p>",
             "page": ""
           }
         },
         "tab_GYe8cg": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Livraison offerte",
+            "content": "<p>La livraison est offerte en point relais.</p><p>Le délai de livraison est estimé entre 3 et 6 jours ouvrables.</p><p>Nous expédions les commandes dans 24h à 48h.</p>",
             "page": ""
           }
         },
         "tab_m3bepF": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Service client 7/7    24/24",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7 sur 7 et 24h sur 24h.</p>",
             "page": ""
           }
         }
@@ -368,9 +368,9 @@
       "name": "Tabs",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "content_size": "small",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
@@ -386,22 +386,22 @@
         "item_jbcAQi": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quelle est la différence avec une autre théière?",
+            "content": "<p>Contrairement aux théières classiques, <strong>Sérénitea</strong> ne laisse pas ton thé tremper trop longtemps.<br/>Grâce à son <strong>système d’infusion intelligent</strong>, l’eau et les feuilles se séparent <strong>en un clic</strong>, pour un goût toujours parfait.</p>"
           }
         },
         "item_L6kkjN": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Peut-on l’utiliser avec tous les types de thé ?",
+            "content": "<p>Absolument ! Sérénitea convient au<strong>thé noir, vert, infusions, Tasty Chai</strong>, et même aux fleurs séchées.</p>"
           }
         },
         "item_e7yiqL": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce solide ?",
+            "content": "<p>Oui 💪<br/>Le verre borosilicate résiste aux fortes températures et aux chocs thermiques.<br/>Sérénitea est conçue pour durer dans le temps, sans se ternir ni se fissurer.</p>"
           }
         }
       },
@@ -415,16 +415,16 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#01481d",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
