@@ -440,7 +440,7 @@
         "full_width": true,
         "subheading": "",
         "title": "UNE QUESTION ?",
-        "content": "<p>Ecrivez-nous via le formulaire ci dessous et nous vous répondrons dans les plus brefs délais.Notre service clientèle est disponible 7 jours sur 7. 24h sur 24h.<br/></p>",
+        "content": "<p>Ecrivez-nous via le formulaire ci dessous et nous vous répondrons dans les plus brefs délais.</p><p>Notre service clientèle est disponible 7 jours sur 7. 24h sur 24h.<br/></p>",
         "text_position": "center",
         "contact_form_size": "small",
         "background": "#012712",
