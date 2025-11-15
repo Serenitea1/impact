@@ -172,152 +172,66 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "press": {
-      "type": "press",
+    "multi_column_fkGLiT": {
+      "type": "multi-column",
       "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
+        "item_NFNBUJ": {
+          "type": "item",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "image": "shopify://shop_images/A82b77f06b3824fb4b031dc3890074f81t_jpg_960x960q75_jpg.avif",
+            "column_size": "3",
+            "title": "Jessica",
+            "heading_tag": "h4",
+            "content": "<p>⭐⭐⭐⭐⭐<br/>Depuis que j’ai adopté la Sérénitea, mon thé est toujours parfait.</p><p> L’infuseur est visible, l’eau reste claire, et je n’ai plus jamais ce goût trop fort. Je recommande ! </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
+        "item_fibDtL": {
+          "type": "item",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "image": "shopify://shop_images/b313433b-3b21-4b53-99d4-3b8e4935f309_jpeg.webp",
+            "column_size": "3",
+            "title": "Marc",
+            "heading_tag": "h4",
+            "content": "<p>⭐⭐⭐⭐⭐<br/>Une théière simple mais ultra efficace : je verse les feuilles, j’appuie, et l’infusion se sépare toute seule.</p><p> Le résultat est propre, élégant et ça fait son petit effet sur la table. </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_z3Y3Cq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/aaf4dccd-e9e1-43eb-8aeb-25a9311d4bd0_jpeg.webp",
+            "column_size": "3",
+            "title": "Assia",
+            "heading_tag": "h4",
+            "content": "<p>⭐⭐⭐⭐⭐<br/>Design magnifique, infuseur facile à nettoyer, et le goût… juste équilibré. </p><p>J’ai même remplacé ma vieille théière après l’avoir testée une semaine. Un vrai coup de cœur. </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "item_NFNBUJ",
+        "item_fibDtL",
+        "item_z3Y3Cq"
       ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "title": "",
+        "stack_on_mobile": false,
+        "gap": "x-large",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "NOS CLIENTS EN PARLENT LE MIEUX :",
         "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": "#252627"
       }
     },
     "featured-product": {
@@ -401,19 +315,19 @@
         "buy-buttons"
       ],
       "settings": {
-        "full_width": false,
-        "product": "",
-        "desktop_media_width": 55,
+        "full_width": true,
+        "product": "serenitea-theiere-magic",
+        "desktop_media_width": 60,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#1a1a1a",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#01481d",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
@@ -476,9 +390,7 @@
     "impact-text",
     "image-with-text-overlay",
     "before-after-image",
-    "press",
-    "hot-spots",
-    "multiple-images-with-text",
+    "multi_column_fkGLiT",
     "featured-product",
     "faq"
   ]
