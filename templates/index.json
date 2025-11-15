@@ -229,7 +229,7 @@
         "subheading": "",
         "title": "NOS CLIENTS EN PARLENT LE MIEUX :",
         "content": "",
-        "background": "#252627",
+        "background": "#00170a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -432,6 +432,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_wfhQ7R": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "UNE QUESTION ?",
+        "content": "<p>Ecrivez-nous via le formulaire ci dessous et nous vous répondrons dans les plus brefs délais.Notre service clientèle est disponible 7 jours sur 7. 24h sur 24h.<br/></p>",
+        "text_position": "center",
+        "contact_form_size": "small",
+        "background": "#012712",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -442,6 +463,7 @@
     "multi_column_fkGLiT",
     "featured-product",
     "tabs_3rAQGQ",
-    "faq_fMAyWY"
+    "faq_fMAyWY",
+    "contact_wfhQ7R"
   ]
 }
